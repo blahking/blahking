@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blahking.
 - 👀 I’m interested in frontend.
-- 🌱 I’m currently learning javascript and css.
+- 🌱 I’m currently learning css, js and vue.
 - 📫 contact with me via blahking@163.com
 
 <!---
