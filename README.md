@@ -1,7 +1,14 @@
 - 👋 Hi, I’m @blahking.
-- 👀 I’m interested in frontend.
-- 🌱 I’m currently learning javascript, vue and react
-- 📫 contact with me via blahking@163.com
+- 👀 I’m interested in frontend and leetcode.
+- 📫 contact with me via blahking@163.com.
+
+- 🌱 I’m currently preparing for spring recruitment.
+- 🐾 I’m building my develop stack:
+- [ ] css
+- [ ] javascript
+- [ ] typescript
+- [ ] react
+- [ ] nodejs
 
 <!---
 blahking/blahking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
